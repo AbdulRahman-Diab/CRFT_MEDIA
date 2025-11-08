@@ -3,5 +3,5 @@
     title: 'DEER Brand & Platform',
     category: 'Brand Identity, Digital Platform',
     description: 'Development of a comprehensive visual identity and a user-friendly digital platform for a new market entrant.',
-    detail_description: 'The DEER project involved crafting a clean, trustworthy brand aesthetic that resonated across both physical and digital touchpoints. The digital platform emphasizes speed and ease-of-use with intuitive navigation and clear calls-to-action.',
+    detail_description: 'The DEER project involved crafting a clean, trustworthy brand aesthetic that resonated across both physical and digital touchpoints. The digital platform emphasizes speed and ease-of-use with intuitive navigation and clear calls-to-action.'
 }
