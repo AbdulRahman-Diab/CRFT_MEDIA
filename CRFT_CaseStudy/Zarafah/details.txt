@@ -2,6 +2,6 @@
     "id": "Zarafah",
     "title": "Zarafah | Visual Identity and Packaging, KSA",
     "category": "Brand Identity, Digital Platform",
-    "Year": "2021",
+    "year": "2021",
     "description": "To address Zarafah’s challenge of achieving a truly authentic "homemade" aesthetic, I developed a visual identity rooted in the nostalgia and organic texture of vintage newspapers. This design system utilizes classic editorial layouts and weathered typography to bridge the gap between a commercial brand and the intimate warmth of a family kitchen. By embracing this analog-inspired style, the project successfully replaces corporate coldness with a sense of heritage, comfort, and handcrafted quality."
 }
