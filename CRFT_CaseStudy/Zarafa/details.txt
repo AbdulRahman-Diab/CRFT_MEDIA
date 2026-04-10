@@ -1,7 +1,7 @@
 {
-    "id": "Zarafa",
-    "title": "Zarafa Brand & Platform",
+    "id": "Zarafah",
+    "title": "Zarafah | coffee shop | KSA",
     "category": "Brand Identity, Digital Platform",
-    "description": "Development of a comprehensive visual identity and a user-friendly digital platform for a new market entrant.",
-    "detail_description": "The DEER project involved crafting a clean, trustworthy brand aesthetic that resonated across both physical and digital touchpoints. The digital platform emphasizes speed and ease-of-use with intuitive navigation and clear calls-to-action."
+    "Year": "2021",
+    "description": "To address Zarafah’s challenge of achieving a truly authentic "homemade" aesthetic, I developed a visual identity rooted in the nostalgia and organic texture of vintage newspapers. This design system utilizes classic editorial layouts and weathered typography to bridge the gap between a commercial brand and the intimate warmth of a family kitchen. By embracing this analog-inspired style, the project successfully replaces corporate coldness with a sense of heritage, comfort, and handcrafted quality."
 }
